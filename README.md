@@ -10,9 +10,9 @@ Resume Manifesto
 
 **2021 - Current**
 
-I am the architect of Turbin3's strategic vision, a champion of anarchy tamed by code and AI. With over a decade of experience in technology and having advised on more than 15 blockchain projects, my journey is one of calculated risks, fueled by a deep skepticism of traditional systems that lag innovation. I drive strategy across all facets of Turbin3: revenue, funding, HR, and research, fostering a community of over 1000 web3 developers producing over 30 hackathon-winning projects.
+I am the architect of Turbin3's strategic vision, an evoker of anarchy tamed by code and AI. With over a decade of experience in technology and having advised on more than 15 blockchain projects, my journey is one of calculated risks, fueled by a deep skepticism of traditional systems that lag innovation. I drive strategy across all facets of Turbin3: revenue, funding, HR, and research, fostering a community of over 1000 web3 developers producing over 30 hackathon-winning projects.
 
-We are dismantling the outdated education paradigm that fuels structural unemployment, building a new model that prepares humanity for a future where technology liberates. My expertise in DeFi risk and protocol analysis, honed through identifying vulnerabilities, guides us towards a world where individuals thrive in a world that maintains order in what appears to be chaos, guided by the elegant order of code and AI. This is my contribution to posterity. This is Turbin3.
+We are dismantling the outdated education paradigm that fuels structural unemployment and hinders unfettered progression, building a new model that prepares humanity for a future where technology liberates. My expertise in DeFi risk and protocol analysis, honed through identifying vulnerabilities, guides us towards a world where individuals thrive in a world that maintains order in what appears to be chaos, guided by the elegant order of code and AI. This is my contribution to posterity. This is Turbin3.
 
 
 ## SuperPosition, Concordia
