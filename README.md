@@ -2,9 +2,9 @@
 Resume Manifesto
 # Nathaniel Hughes
 
-**@bitn8 on X**
+[@bitn8 on X](https://x.com/qubitn8) 
 
-## Turbin3
+## [Turbin3](turbin3.com)
 
 **Co-founder and Chief Strategy Officer**
 
